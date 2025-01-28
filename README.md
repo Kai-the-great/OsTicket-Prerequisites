@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Within the Windows 10 Virtual Machine Enable IIS by going to the Start Menu-> Control Panel-> Programs (Uninstall programs), On the Left hand side click on the hyperlink "Turn Windows Features ON or OFF"-> Enable IIS-> World Wide Web Services-> Application Development Features-> Enable "CGI"
 </p>
 <br />
 
@@ -45,13 +45,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Install the ReWRite Module for IIS. Follow the prompts of the configuration wizard and at the end click "Install"
 </p>
 <br />
 <img width="480" alt="Screenshot 2024-06-26 at 12 42 13 PM" src="https://github.com/user-attachments/assets/7621dca8-07f9-4b60-b0bf-59e3af1d4634" /> <img width="480" alt="Screenshot 2024-06-26 at 12 42 29 PM" src="https://github.com/user-attachments/assets/a57b2301-fc33-4501-90fc-6fd2124a61be" /> <img width="500" alt="Screenshot 2024-06-26 at 12 43 53 PM" src="https://github.com/user-attachments/assets/c2a8dfaf-a16d-4d9d-bb92-09c0343434b5" /> <img width="500" alt="Screenshot 2024-06-26 at 12 44 02 PM" src="https://github.com/user-attachments/assets/6606c7ae-bc2e-4f78-b890-f6013860b700" />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Download MYSQL and then launch the configuration Wizard. Follow the prompts as shown in the screenshots and setup the password for MYSQL "root"
 </p>
 <p>
 
@@ -60,11 +59,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img width="464" alt="Screenshot 2024-06-26 at 12 41 17 PM" src="https://github.com/user-attachments/assets/c69b4bf5-0dc4-429a-ab2f-af833345c462" />
 
 
-Insert C++ Information here
+Install C++ and go through the configuration Wizard. At the end of the configuration Click "Install and Finish"
 
 
 <br />
 
 <img width="1440" alt="Screenshot 2025-01-16 at 12 05 41 PM" src="https://github.com/user-attachments/assets/d571d5f1-f64e-407a-a2e2-3ad0d25a516c" />
 
-Configure settings and Install Os-Ticket
+Configure settings and Permissions within IIS Manager including PHP Extensions. Once done Apply all changes and downlaod the recommeneded version of Os-Ticket. 
