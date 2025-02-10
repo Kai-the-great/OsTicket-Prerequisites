@@ -47,7 +47,7 @@ Expand World Wide Web Services > Application Development Features.
 
 Enable CGI.
 
-Click OK and wait for the installation to complete."
+Click OK and wait for the installation to complete.
 </p>
 <br />
 
